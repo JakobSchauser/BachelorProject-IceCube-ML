@@ -4,8 +4,8 @@ Using Graph Neural Networks for classifation and regression of data and Monte Ca
 
 Main technologies are:
 
-  Architecture: Tensorflow/Keras/Spektral
+  Architecture: Tensorflow / Keras / Spektral
   
-  IDE: Google Colab
+  IDE: Google Colab / Jupyter Notebook / VSCode
   
   Database querying: sqlite3
