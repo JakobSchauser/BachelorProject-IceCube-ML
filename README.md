@@ -14,4 +14,4 @@ Main technologies are:
   
   Database querying: sqlite3
 
-For any inquieries, jakob.schauser@gmail.com
+For any inquiries, jakob.schauser@gmail.com
